@@ -1,4 +1,4 @@
-# React Project with Vite
+# React Project with Vite and Typescript
 
 This project was bootstrapped with [Vite](https://vitejs.dev/), a modern frontend build tool, and uses [Vitest](https://vitest.dev/) for testing.
 
