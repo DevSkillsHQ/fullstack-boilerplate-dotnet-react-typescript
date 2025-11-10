@@ -19,7 +19,7 @@
     "@vitejs/plugin-react": "^4.7.0",
     "jsdom": "^27.1.0",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.7"
+    "vitest": "^4.0.8"
   },
   "scripts": {
     "start": "vite",
